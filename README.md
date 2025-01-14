@@ -41,7 +41,7 @@ Dual-platform dermatological analysis system with AI-powered skin condition dete
 A Chrome extension to enhance vocabulary with a dynamic, user-friendly interface.
 - **Tech Stack:** React, TypeScript, Tailwind CSS
 - **Status:** 🟢 Deployed
-- **[Chrome Store Link](https://chrome.google.com/webstore/detail/thesaurus-rex)**
+- **[Chrome Store Link](https://chromewebstore.google.com/detail/thesaurus-rex-dictionary/kdndkbfnffbiocjpoaifdpljdphefgpm)**
 
 ## 🏆 Achievements
 - 🏆 Best of Show Winner - York College of Pennsylvania Hackathon 2024
