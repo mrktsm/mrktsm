@@ -44,7 +44,7 @@ A Chrome extension to enhance vocabulary with a dynamic, user-friendly interface
 - **[Chrome Store Link](https://chrome.google.com/webstore/detail/thesaurus-rex)**
 
 ## 🏆 Achievements
-- 1st Place - York College of Pennsylvania Hackathon 2024
+- 🏆 Best of Show Winner - York College of Pennsylvania Hackathon 2024
 - AWS Certified Cloud Practitioner
 - Dean's List - Gettysburg College (2023-2024)
 
