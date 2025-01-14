@@ -29,8 +29,7 @@ Here are some of my recent projects:
 A Chrome extension enhancing Gmail's spam protection using custom AI model.
 - **Tech Stack:** React, FastAPI, AWS
 - **Status:** 🟢 Deployed
-- **Users:** 500+
-- **[Live Demo](https://spamurai.dev)**
+- **[Website](https://spamurai.online)**
 
 ### [Dermafyr](https://github.com/mrktsm/Dermafyr-YCP2024)
 Dual-platform dermatological analysis system with AI-powered skin condition detection.
@@ -38,20 +37,16 @@ Dual-platform dermatological analysis system with AI-powered skin condition dete
 - **Status:** 🟡 In Development
 - **Recognition:** 🏆 Winner - YCP Hackathon 2024
 
-### [Climately](https://github.com/mrktsm/climately)
-Chrome extension integrating weather updates with Google Calendar.
-- **Tech Stack:** React, Java Spring Boot, OpenAI
+### [Thesaurus Rex](https://github.com/mrktsm/thesaurus-rex)
+A Chrome extension to enhance vocabulary with a dynamic, user-friendly interface.
+- **Tech Stack:** React, TypeScript, Tailwind CSS
 - **Status:** 🟢 Deployed
-- **[Chrome Store Link](https://chrome.google.com/webstore/detail/climately)**
+- **[Chrome Store Link](https://chrome.google.com/webstore/detail/thesaurus-rex)**
 
 ## 🏆 Achievements
 - 1st Place - York College of Pennsylvania Hackathon 2024
 - AWS Certified Cloud Practitioner
 - Dean's List - Gettysburg College (2023-2024)
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrktsm&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrktsm&layout=compact&theme=dracula)
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-tsymbaliuk-55615430b/)
