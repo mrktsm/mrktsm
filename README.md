@@ -45,7 +45,9 @@ A Chrome extension to enhance vocabulary with a dynamic, user-friendly interface
 
 ## 🏆 Achievements
 - 🏆 Best of Show Winner - York College of Pennsylvania Hackathon 2024
+<!-- 
 - AWS Certified Cloud Practitioner
+-->
 - Dean's List - Gettysburg College (2023-2024)
 
 ## 📫 How to Reach Me
