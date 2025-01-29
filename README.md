@@ -22,27 +22,6 @@ Welcome to my GitHub! I'm a Computer Science student at Gettysburg College, focu
 - **Databases & Tools:** PostgreSQL, Firebase, Git/GitHub, AWS, Tailwind CSS
 - **Other:** Docker, Nginx, Google Cloud, Material-UI, Electron
 
-## 🚀 Projects
-Here are some of my recent projects:
-
-### [Spamurai](https://github.com/mrktsm/spamurai)
-A Chrome extension enhancing Gmail's spam protection using custom AI model.
-- **Tech Stack:** React, FastAPI, AWS
-- **Status:** 🟢 Deployed
-- **[Website](https://spamurai.online)**
-
-### [Dermafyr](https://github.com/mrktsm/Dermafyr-YCP2024)
-Dual-platform dermatological analysis system with AI-powered skin condition detection.
-- **Tech Stack:** TensorFlow, Raspberry Pi, Python
-- **Status:** 🟡 In Development
-- **Recognition:** 🏆 Winner - YCP Hackathon 2024
-
-### [Thesaurus Rex](https://github.com/mrktsm/thesaurus-rex)
-A Chrome extension to enhance vocabulary with a dynamic, user-friendly interface.
-- **Tech Stack:** React, TypeScript, Tailwind CSS
-- **Status:** 🟢 Deployed
-- **[Chrome Store Link](https://chromewebstore.google.com/detail/thesaurus-rex-dictionary/kdndkbfnffbiocjpoaifdpljdphefgpm)**
-
 ## 🏆 Achievements
 - 🏆 Best of Show Winner - York College of Pennsylvania Hackathon 2024
 <!-- 
