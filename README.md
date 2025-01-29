@@ -1,11 +1,11 @@
 ## Hi 👋, I'm Marko!
 Welcome to my GitHub! I'm a Computer Science student at Gettysburg College, focused on software development, AI, and solving real-world problems through technology. I enjoy participating in hackathons, working on full-stack development projects, and continuously learning new skills.
-
+<!-- 
 ## 🔭 Currently Working On
 - Enhancing Spamurai with advanced NLP capabilities
 - Learning cloud architecture patterns on AWS
 - Contributing to open-source ML projects
-
+-->
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
