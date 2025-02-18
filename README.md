@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Marko!
-Welcome to my GitHub! I'm a Computer Science student at Gettysburg College, focused on software development, AI, and solving real-world problems through technology. I enjoy participating in hackathons, working on full-stack development projects, and continuously learning new skills.
+Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](http://gettysburg.edu/), focused on software development, AI, and solving real-world problems through technology. I enjoy participating in hackathons, working on full-stack development projects, and continuously learning new skills.
 <!-- 
 ## 🔭 Currently Working On
 - Enhancing Spamurai with advanced NLP capabilities
