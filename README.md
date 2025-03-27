@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](htt
 - Learning cloud architecture patterns on AWS
 - Contributing to open-source ML projects
 -->
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](htt
 - **Databases & Tools:** PostgreSQL, Firebase, Git/GitHub, AWS, Tailwind CSS
 - **Other:** Docker, Nginx, Google Cloud, Material-UI, Electron
 
-## 🏆 Achievements
+## Achievements
 - 🏆 Best of Show Winner - York College of Pennsylvania Hackathon 2024
 <!-- 
 - AWS Certified Cloud Practitioner
