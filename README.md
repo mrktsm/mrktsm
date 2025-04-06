@@ -43,5 +43,4 @@ mrktsm/mrktsm is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://t.bkit.co/w_67f204e45bf02.gif" />
 
