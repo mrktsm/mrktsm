@@ -1,4 +1,9 @@
-## Hi 👋, I'm Marko!
+## Hey 👋 I'm Marko!
+
+I like building things for the web.
+
+Check out what I’m working on — or go pet a cat instead. Both are good uses of time. 🐾
+<!--
 Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](http://gettysburg.edu/), focused on software development, AI, and solving real-world problems through technology. I enjoy participating in hackathons, working on full-stack development projects, and continuously learning new skills.
 <!-- 
 ## 🔭 Currently Working On
@@ -6,6 +11,7 @@ Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](htt
 - Learning cloud architecture patterns on AWS
 - Contributing to open-source ML projects
 -->
+<!--
 ## Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -24,21 +30,23 @@ Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](htt
 
 ## Achievements
 - 🏆 Best of Show Winner - York College of Pennsylvania Hackathon 2024
-<!-- 
 - AWS Certified Cloud Practitioner
--->
 - Dean's List - Gettysburg College (2023-2024)
 
-## 📫 How to Reach Me
+## How to Reach Me
+-->
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-tsymbaliuk-55615430b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mrktsm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tsymma01@gettysburg.edu)
 [![Website](https://img.shields.io/badge/Personal_Website-008000?style=flat)](https://www.markotsymbaluk.com)
 
-
+<!---
 Feel free to explore my repositories, open issues, or reach out to me for collaboration opportunities or questions!
 
-<!---
+
 mrktsm/mrktsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
