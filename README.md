@@ -1,8 +1,8 @@
-# 💫 About me
+# 💫 About me 
 
-### I like building things for the web.
+I like building things for the web.
 
-### Check out what I’m working on — or go pet a cat instead. Both are good uses of time. 🐾
+ Check out what I’m working on — or go pet a cat instead. Both are good uses of time. 🐾
 <!--
 Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](http://gettysburg.edu/), focused on software development, AI, and solving real-world problems through technology. I enjoy participating in hackathons, working on full-stack development projects, and continuously learning new skills.
 <!-- 
