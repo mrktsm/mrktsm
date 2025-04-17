@@ -1,4 +1,4 @@
-## Hey 👋 I'm Marko!
+# 💫 About me
 
 I like building things for the web.
 
