@@ -3,45 +3,20 @@
 I like building things for the web.
 
  Check out what I’m working on — or go pet a cat instead. Both are good uses of time. 🐾
-<!--
-Welcome to my GitHub! I'm a Computer Science student at [Gettysburg College](http://gettysburg.edu/), focused on software development, AI, and solving real-world problems through technology. I enjoy participating in hackathons, working on full-stack development projects, and continuously learning new skills.
-<!-- 
-## 🔭 Currently Working On
-- Enhancing Spamurai with advanced NLP capabilities
-- Learning cloud architecture patterns on AWS
-- Contributing to open-source ML projects
--->
-<!--
-## Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### Detailed Skills
-- **Programming Languages:** Java, Python, JavaScript, TypeScript, SQL, R
-- **Frameworks & Libraries:** React, React Native, Node.js, FastAPI, Spring Boot, TensorFlow, Keras, Scikit-learn, Firebase
-- **Databases & Tools:** PostgreSQL, Firebase, Git/GitHub, AWS, Tailwind CSS
-- **Other:** Docker, Nginx, Google Cloud, Material-UI, Electron
-
-## Achievements
-- 🏆 Best of Show Winner - York College of Pennsylvania Hackathon 2024
-- AWS Certified Cloud Practitioner
-- Dean's List - Gettysburg College (2023-2024)
-
-## How to Reach Me
--->
-
+ ## 🇺🇦 Support Ukraine
+ If you’d like to support humanitarian efforts in Ukraine, consider donating to [Razom for Ukraine](https://www.razomforukraine.org/).
+ 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-tsymbaliuk-55615430b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrktsm)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsymma01@gettysburg.edu)
 [![Website](https://img.shields.io/badge/Personal_Website-FF6600?style=for-the-badge&logo=M&logoColor=white)](https://www.markotsymbaluk.com)
+[![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD700?style=for-the-badge&labelColor=FFD700&color=0057B7)](https://www.razomforukraine.org/)
+
+
+
 
 
 <!---
