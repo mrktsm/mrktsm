@@ -64,7 +64,9 @@
  zzzzzzzíízzzzzzzzzííííízÏÏÏÏÏüüÏzííí{z{{íÏ6ÇÞGÅgGÇÇÏÏíí—          ›   {—{íízíííízzzzÏízíízÏ{—››      ››—í{í{{{íí       
  zzzzÏÏüüÏÏÏzzÏÏÏÏÏzzzüÏüzzzízÏÏÏÏzÏüüüüüzzí—   ›{zÏÏ66ÞgÆÆÅÆÆÆÅÅÆÆÆÅgÇ{—{ízzÏÏÏÏzzzzí{{ííí—   ›—{í{í{í——{›› ››—{—                                                                                                                                                       
 </code></pre>
-
+<!--
+ASCII ART GENERATED WITH sciiart.eu
+-->
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-tsymbaliuk-55615430b/)
@@ -76,13 +78,5 @@
 
 
 
-
-<!---
-Feel free to explore my repositories, open issues, or reach out to me for collaboration opportunities or questions!
-
-
-mrktsm/mrktsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
