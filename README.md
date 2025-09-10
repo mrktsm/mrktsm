@@ -1,4 +1,4 @@
-I like building things for the web.
+I love event-driven software. Real-time systems are my jam.
 
 You might’ve seen [CodeCafé](https://github.com/mrktsm/codecafe), a collaborative browser-based code editor I’ve been working on.
 
